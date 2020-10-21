@@ -10,3 +10,5 @@ for x in text1:
                 break
 else:
         print("Anagram")
+
+print("testing")
