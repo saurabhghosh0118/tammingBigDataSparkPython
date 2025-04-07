@@ -11,9 +11,6 @@ df2 = spark.createDataFrame(rdd2)
 df2.show(20)
 #This comment is written in test branch
 #This is my local branch
-#This is to test merg of main to branch using pycharm
 #This is my change from test branch - line1
 #This is my change from test branch - line2
-#Third Line from main
-#Fourth line from main
 
